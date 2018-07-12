@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Your Guide in assuit</string>
+
+    <string-array name="main_title">
+        <item>العيادات</item>
+        <item>المستشفيات</item>
+        <item>الصيدليات</item>
+        <item>المعامل الطبية</item>
+        <item>الفنادق</item>
+        <item>المطاعم</item>
+        <item>السماسره</item>
+    </string-array>
+    <string-array name="hospitals_title">
+        <item>المستشفيات الحكومي</item>
+        <item>المستشفيات الخاص</item>
+    </string-array>
+    <!--
+    <string-array name="main_title">
+        <item>Clinics</item>
+        <item>Hospitals</item>
+        <item>Pharmacy</item>
+        <item>Labs</item>
+        <item>Hotels</item>
+        <item>Restaurtants</item>
+        <item>Semsars</item>
+    </string-array>
+    <string-array name="hospitals_title">
+        <item>Governmental Hospitals</item>
+        <item>Special Hospitals</item>
+    </string-array>
+    -->
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">دليلك في اسيوط</string>
+    <string-array name="main_title">
+        <item>العيادات</item>
+        <item>المستشفيات</item>
+        <item>الصيدليات</item>
+        <item>المعامل الطبية</item>
+        <item>الفنادق</item>
+        <item>المطاعم</item>
+        <item>السماسره</item>
+    </string-array>
+    <string-array name="hospitals_title">
+        <item>المستشفيات الحكومي</item>
+        <item>المستشفيات الخاص</item>
+    </string-array>
+</resources>

@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f9c6eb9f4cb2b9b4f2ea510cf21e50cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\100e1bd2f9a84115da97c5c063238bd7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fb2010d8bcf7625ce85ac17235c627ed\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d6debdadc8c13d2b59e1b4c35d5da5bb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\bc2144e36594ee27a460c029f3003ea3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a416ccf45e7f07779f454da546e39e28\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a6111394bb0f0c1fe52c4ee386baba22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f02ab0f2ed1210538710a19558b6f8fc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\83f9d640ff314c6a883d1288deba73ca\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\ecd07818edc97f46dc1bf72e11a194c1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0c6cabaf03a3dcd5d5d8457195fc0203\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2d0791fef9d0e11174e1a5f540007b76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\76b954ac99c2964f32642aac25d405eb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f8fa47093093897b5ae1724e4dd054d9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ce0d58d036dbf5cff34af0ddbc5ce93f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55b2f8bb2366d4a01c973696c6d59210\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9e910bfbd1c48ced00d87a2454f7af5e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:5:22-66
+application
+ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:6:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d6debdadc8c13d2b59e1b4c35d5da5bb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d6debdadc8c13d2b59e1b4c35d5da5bb\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.mostafa.fci.yourguideinassuit.Activities.SplashActivity
+ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:13:19-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.mostafa.fci.yourguideinassuit.Activities.MainActivity
+ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:20:9-61
+	android:name
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:20:19-58
+activity#com.mostafa.fci.yourguideinassuit.Activities.PlaceActivity
+ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:21:9-62
+	android:name
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:21:19-59
+activity#com.mostafa.fci.yourguideinassuit.Activities.DetailsActivity
+ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:22:9-73
+	android:name
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml:22:19-61
+uses-sdk
+INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f9c6eb9f4cb2b9b4f2ea510cf21e50cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f9c6eb9f4cb2b9b4f2ea510cf21e50cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\100e1bd2f9a84115da97c5c063238bd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\100e1bd2f9a84115da97c5c063238bd7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fb2010d8bcf7625ce85ac17235c627ed\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fb2010d8bcf7625ce85ac17235c627ed\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d6debdadc8c13d2b59e1b4c35d5da5bb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d6debdadc8c13d2b59e1b4c35d5da5bb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\bc2144e36594ee27a460c029f3003ea3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\bc2144e36594ee27a460c029f3003ea3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a416ccf45e7f07779f454da546e39e28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a416ccf45e7f07779f454da546e39e28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a6111394bb0f0c1fe52c4ee386baba22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a6111394bb0f0c1fe52c4ee386baba22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f02ab0f2ed1210538710a19558b6f8fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f02ab0f2ed1210538710a19558b6f8fc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\83f9d640ff314c6a883d1288deba73ca\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\83f9d640ff314c6a883d1288deba73ca\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\ecd07818edc97f46dc1bf72e11a194c1\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\ecd07818edc97f46dc1bf72e11a194c1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0c6cabaf03a3dcd5d5d8457195fc0203\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0c6cabaf03a3dcd5d5d8457195fc0203\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2d0791fef9d0e11174e1a5f540007b76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2d0791fef9d0e11174e1a5f540007b76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\76b954ac99c2964f32642aac25d405eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\76b954ac99c2964f32642aac25d405eb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f8fa47093093897b5ae1724e4dd054d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f8fa47093093897b5ae1724e4dd054d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ce0d58d036dbf5cff34af0ddbc5ce93f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ce0d58d036dbf5cff34af0ddbc5ce93f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55b2f8bb2366d4a01c973696c6d59210\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55b2f8bb2366d4a01c973696c6d59210\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9e910bfbd1c48ced00d87a2454f7af5e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\FCI\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9e910bfbd1c48ced00d87a2454f7af5e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FCI\Documents\Android\Windows\YourGuideInAssuit\app\src\main\AndroidManifest.xml
